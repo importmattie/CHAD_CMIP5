@@ -2,7 +2,7 @@
 
 CHAD (= ClickHist + Atmospheric Data)
 
-An implementation for exploring CMIP5 data
+An implementation of ClickHist for exploring CMIP5 data
 
 Author: Matthew Niznik (matthewniznik on Github)
 
