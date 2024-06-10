@@ -7,6 +7,7 @@ An implementation of ClickHist for exploring CMIP5 data
 Author: Mattie Niznik (importmattie on Github)
 
 E-mail: mattie.niznik@princeton.edu
+
 Version 0.0.1
 
 Date: 2016-02-29
